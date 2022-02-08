@@ -44,6 +44,7 @@ body{
 	background-color:  hsl(233, 47%, 7%);
 }
 .container{
+	border-radius:10px;
 	display: flex;
 	flex-direction:column;
 	width: 90%;
@@ -51,6 +52,7 @@ body{
 	margin: 5vh auto;
 }
 img{
+	border-radius:10px;
 	width:100%;
 	height: 100%;
 }
