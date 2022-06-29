@@ -116,7 +116,7 @@ span{
 @media screen and  (min-width:376px){
 	.container{
 		flex-direction: row-reverse;
-        height:75vh;
+        height:70vh;
         margin: 20vh auto;
         padding-bottom:0;
         width:75%;
@@ -129,7 +129,7 @@ span{
         background:url("image-header-mobile.jpg");
         background-size:contain;
         width: 50%;
-        height: 75vh;
+        height: 70vh;
         content:"";
     }
     .image::after{
@@ -137,7 +137,7 @@ span{
         position: absolute;
         content: " ";
         width:37.5%;
-        height:75vh;
+        height:70vh;
         z-index: 0;
         background-color: rgb(61, 19, 87,0.7);
       }
